@@ -11,16 +11,17 @@ Paper presentation (anyone can view without login):
 http://slides.google.com/
 
 Paper submission date (to workshop/conference):
-25 October 1999
+03 January 2023
 
 Paper submission ID: (received) from conference/workshop
-1341234
+295
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Langauge Processing: Techniques and Practices
+RaharjaIC2022 (University of Raharja International Conference) ICCIT 2023
 
 Conference URL:
-http://confsite/...
+https://iccit-conference.org/2023
+https://easychair.org/account/signin?l=1S3hKIAGGYaHamCAhkej2K
 
 Group Number:
 31
