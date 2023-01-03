@@ -1,5 +1,5 @@
 Link to unlisted youtube video: 
-  https://youtu.be/TF00rJxUbPk
+  https://www.youtube.com/watch?v=TF00rJxUbPk&feature=youtu.be 
 
 public link to the Concept Map: 
 Pdf:
