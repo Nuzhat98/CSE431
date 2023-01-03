@@ -2,7 +2,9 @@ Unlisted youtube video:
 https://youtu.be/CZP6coTfQAQ
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://easychair.org/account/signin?l=1S3hKIAGGYaHamCAhkej2K
+Overleaf:
+https://www.overleaf.com/read/skwbjkprktcy
 
 Paper title:
 Sentiment Analysis of Restaurant Reviews Using Machine Learning Algorithms
