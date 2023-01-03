@@ -10,7 +10,7 @@ Paper title:
 Sentiment Analysis of Restaurant Reviews Using Machine Learning Algorithms
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1kSFPU9wuNnxa7aNnwdiRlHua67OwkCvfKP7r3FGel7U/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 03 January 2023
